@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SearchIn</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imagebuttonContact">Contacts</string>
+    <string name="imagebuttonVideo">Videos</string>
+    <string name="imgebuttonImage">Images</string>
+    <string name="imagebuttonCompressed">Compressed</string>
+    <string name="imagebuttonMusic">Music</string>
+    <string name="imagebuttonOther">Others</string>
+    <string name="imagebuttonApplication">applications</string>
+    <string name="imagebuttonDocuments">Documents</string>
+     
+    <string name="action_search">Search</string>
+    <string name="hintSearch">Search Here...</string>
+    <string name="imgdesApplication">Apps</string>
+    <string name="imgdesContacts">Contacts</string>
+    <string name="imgdesImages">Images</string>
+    <string name="imgdesMusic">Music</string>
+    <string name="imgdesCompressed">Compressed</string>
+    <string name="imgdesVideos">Videos</string>
+    <string name="imgdesOthers">Others</string>
+    <string name="imgdesDocuments">Docs</string>
+
+</resources>
